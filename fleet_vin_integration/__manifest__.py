@@ -14,7 +14,7 @@
     'author': "shalin wilson",
     'website': "https://www.linkedin.com/in/shalin-wilson-a1318183/",
     'category': 'Uncategorized',
-    'version': '13.0.1',
+    'version': '13.1.1',
 
     # any module necessary for this one to work correctly
     'depends': ['base', 'fleet'],
