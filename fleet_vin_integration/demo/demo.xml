@@ -1,0 +1,39 @@
+<odoo>
+<!--    <data>-->
+<!--        <record id="brand_audi1" model="fleet.vehicle.model.brand">-->
+<!--      	<field name="name">Audi-</field>-->
+<!--&lt;!&ndash;      	<field name="image" type="base64" file=""/>&ndash;&gt;-->
+<!--      </record>-->
+<!--        <record id="model_a111" model="fleet.vehicle.model">-->
+<!--          <field name="name">A1</field>-->
+<!--          <field name="brand_id" ref="fleet_vin_integration.brand_audi1" />-->
+<!--      </record>-->
+<!--       <record id="vehicle_411" model="fleet.vehicle">-->
+<!--          <field name="license_plate">1-AUD-001</field>-->
+<!--          <field name="vin_sn">455247980</field>-->
+<!--          <field name="f_brand_id" ref="brand_audi1"/>-->
+<!--          <field name="model_id" ref="fleet_vin_integration.model_a111"/>-->
+<!--          <field name="color">White</field>-->
+<!--          <field name="location">Grand-Rosiere</field>-->
+<!--          <field name="doors">3</field>-->
+<!--&lt;!&ndash;          <field name="driver_id" ref="base.res_partner_address_16" />&ndash;&gt;-->
+<!--          <field name="acquisition_date" eval="time.strftime('%Y-%m-%d 2:00:00')" />-->
+<!--&lt;!&ndash;          <field name="state_id" ref="fleet.fleet_vehicle_state_registered"/>&ndash;&gt;-->
+<!--          <field name="odometer_unit">kilometers</field>-->
+<!--          <field name="car_value">20000</field>-->
+<!--&lt;!&ndash;          <field eval="[(6,0,[ref('fleet.vehicle_tag_leasing'),ref('fleet.vehicle_tag_compact'),ref('fleet.vehicle_tag_senior')])]" name="tag_ids"/>&ndash;&gt;-->
+<!--      </record>-->
+
+
+<!--        &lt;!&ndash;   <record id="object3" model="vehicle_api.vehicle_api"> &ndash;&gt;-->
+<!--        &lt;!&ndash;     <field name="name">Object 3</field> &ndash;&gt;-->
+<!--        &lt;!&ndash;     <field name="value">30</field> &ndash;&gt;-->
+<!--        &lt;!&ndash;   </record> &ndash;&gt;-->
+<!--        &lt;!&ndash;  &ndash;&gt;-->
+<!--        &lt;!&ndash;   <record id="object4" model="vehicle_api.vehicle_api"> &ndash;&gt;-->
+<!--        &lt;!&ndash;     <field name="name">Object 4</field> &ndash;&gt;-->
+<!--        &lt;!&ndash;     <field name="value">40</field> &ndash;&gt;-->
+<!--        &lt;!&ndash;   </record> &ndash;&gt;-->
+<!--        &lt;!&ndash;  &ndash;&gt;-->
+<!--    </data>-->
+</odoo>
